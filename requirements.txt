@@ -1,0 +1,4 @@
+pandsas
+scikit-learn
+numpy
+streamlit
